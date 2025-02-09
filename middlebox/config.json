@@ -1,0 +1,12 @@
+{
+    "cloudmiddlebox.ihlp.com": {
+        "available_servers": [
+            {
+                "url": "192.168.0.40:3000"
+            },
+            {
+                "url": "192.168.0.40:3000"
+            }
+        ]
+    }
+}
